@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688309114414",
+    "project_id": "advance-educational-team--aet",
+    "storage_bucket": "advance-educational-team--aet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688309114414:android:e107cd6b277039cb7c31bf",
+        "android_client_info": {
+          "package_name": "com.aistudio.aetbanking.kpmwre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr11cVigsT3Z5zbZuolLnG_Vg5i8c-sFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
